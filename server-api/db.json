@@ -1,0 +1,28 @@
+{
+  "table": [
+    {
+      "layout": "Combination",
+      "name": "Sunsilk",
+      "capacity": "100",
+      "status": true,
+      "image": "C:\\fakepath\\278620770_508021664194571_7778817461734891310_n.jpg",
+      "id": 2
+    },
+    {
+      "layout": "Product",
+      "name": "Shampoo",
+      "capacity": "50",
+      "status": true,
+      "image": "C:\\fakepath\\278608707_498684155128370_8235103936741174565_n.jpg",
+      "id": 3
+    },
+    {
+      "layout": "Fixed",
+      "name": "Soap",
+      "capacity": "90",
+      "status": true,
+      "image": "C:\\fakepath\\284874543_535988134730826_7861563890244379906_n.jpg",
+      "id": 4
+    }
+  ]
+}
